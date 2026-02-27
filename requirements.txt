@@ -1,0 +1,11 @@
+pymupdf
+pdf2image
+chromadb
+sentence-transformers
+qdrant-client
+pillow
+google-generativeai
+python-dotenv
+requests
+beautifulsoup4
+playwright
